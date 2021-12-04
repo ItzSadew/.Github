@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [sᴀᴅᴇᴡ](https://t.me/itz_Sadew) | [![Profile views](https://komarev.com/ghpvc/?username=Sadew451&label=Profile%20views)](https://github.com/Sadew451) 
 
-> `Website:` [Sadew JA](https://t.m/Itz_Sadew) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
+> `Website:` [Sadew JA](https://sadew451.github.io/SadewJa.github.io/)
  #### Contact me
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://telegram.me/itz_Sadew" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
