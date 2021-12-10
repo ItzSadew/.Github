@@ -12,3 +12,5 @@
 <a href="https://linkedin.com/in/SadewJayasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sadew Jayasekara" height="30" width="40" /></a>
 
 ## [@Itz_Sadew](https://t.me/Itz_Sadew)
+
+[![Profile views](https://komarev.com/ghpvc/?username=ItzSadew&label=Profile%20views)](https://github.com/Sadew451) 
